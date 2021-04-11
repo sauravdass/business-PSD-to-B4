@@ -1,7 +1,7 @@
 $(document).ready(function(){
     //menu icon change
     $('button.navbar-toggler').on('click',function(){
-        $('.menu-icon').toggleClass('fa, fa-bars, fas, fa-times');
+        $('.menu-icon').toggleClass('fa fa-bars fas fa-times');
     });
 
     //banner slider
